@@ -1,4 +1,6 @@
-package com.aimcode.luarberita.data
+package com.aimcode.luarberita.data.remote.response
+
+import com.aimcode.luarberita.data.remote.response.Source
 
 data class Article(
     val author: String,
