@@ -1,4 +1,4 @@
-package com.aimcode.luarberita.data.remote.response
+package com.aimcode.luarberita.data.models
 
 data class NewsResponse(
     val articles: List<Article>,

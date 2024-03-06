@@ -1,6 +1,6 @@
 package com.aimcode.luarberita.data.remote.api
 
-import com.aimcode.luarberita.data.remote.response.NewsResponse
+import com.aimcode.luarberita.data.models.NewsResponse
 import com.aimcode.luarberita.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
